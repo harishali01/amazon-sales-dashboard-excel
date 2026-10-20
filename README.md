@@ -25,4 +25,4 @@ An interactive sales dashboard built in Excel using pivot tables, charts and sli
 Excel (Pivot Tables, Slicers, Charts)
 
 ## Preview
-![Dashboard](dashboard.png)
+http://github.com/harishali01/amazon-sales-dashboard-excel/blob/main/Screenshot%202026-10-18%20215157.png
